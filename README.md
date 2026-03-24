@@ -38,3 +38,24 @@ The system parses mathematical expressions, constructs structured representation
 ├── Compiler # Translation to target machine code
 ├── Targ Machine # Stack-based execution model
 ```
+
+---
+
+## How It Works
+
+1. **Input Expression**
+   - User provides an infix expression
+
+2. **Parsing**
+   - Expression is parsed and converted into a structured tree (AVL-based)
+
+3. **Symbol Table Construction**
+   - Variables and values are stored and managed
+
+4. **Compilation**
+   - Expression is translated into **Targ machine instructions**
+
+5. **Execution (Conceptual)**
+   - Instructions follow a stack-based evaluation model
+
+---
