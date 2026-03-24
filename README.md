@@ -59,3 +59,22 @@ The system parses mathematical expressions, constructs structured representation
    - Instructions follow a stack-based evaluation model
 
 ---
+
+## Concepts Used
+
+- Data Structures:
+  - AVL Trees
+  - Stacks
+  - Symbol Tables
+
+- Algorithms:
+  - Expression parsing
+  - Tree balancing
+  - Stack-based evaluation
+
+- Programming Concepts:
+  - Modular design
+  - Compiler pipeline (basic)
+  - Custom data type implementation
+
+---
