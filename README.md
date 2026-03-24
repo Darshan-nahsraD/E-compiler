@@ -78,3 +78,20 @@ The system parses mathematical expressions, constructs structured representation
   - Custom data type implementation
 
 ---
+
+## Learning Outcomes
+
+- Understanding of **compiler design basics**
+- Implementation of **arbitrary precision arithmetic**
+- Practical use of **trees and stacks in expression evaluation**
+- Experience in building a **multi-stage system (parse → compile → execute)**
+
+---
+
+## Note
+This project is developed as part of learning **Data Structures & Algorithms** and basic **compiler concepts**.
+
+---
+
+## Author
+Darshan Mujalde
