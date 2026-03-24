@@ -31,3 +31,10 @@ The system parses mathematical expressions, constructs structured representation
   - Ensures efficient operations and evaluation
 
 ---
+├── UnlimitedInt / UnlimitedRational # Arbitrary precision number implementation
+├── Parser # Infix expression parsing logic
+├── AVL Tree # Expression representation
+├── Symbol Table # Variable storage and lookup
+├── Compiler # Translation to target machine code
+├── Targ Machine # Stack-based execution model
+---
